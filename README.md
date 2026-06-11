@@ -41,10 +41,10 @@ https://github.com/BurnSIx-hub/footstep-sounds/releases/latest/download/module.j
 
 ## Звуки / Sound credits
 
-- Камень, гравий: [Footsteps on different surfaces](https://opengameart.org/content/footsteps-on-different-surfaces) by **congusbongus** (CC-BY 3.0; камень — на основе записи swuing, гравий — Ali_6868, CC0)
+- Камень, гравий, металл: [Footsteps on different surfaces](https://opengameart.org/content/footsteps-on-different-surfaces) by **congusbongus** (CC-BY 3.0; источники: камень — swuing, гравий — Ali_6868 CC0, металл — Eelke)
 - Земля, дерево: [Different steps on wood, stone, leaves, gravel and mud](https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud) (CC0)
 - Скрипучее дерево: [100 CC0 metal and wood SFX](https://opengameart.org/content/100-cc0-metal-and-wood-sfx) (CC0)
-- Варианты земли: [100 CC0 SFX #2](https://opengameart.org/content/100-cc0-sfx-2) (CC0)
+- Варианты земли и дерева: [100 CC0 SFX #2](https://opengameart.org/content/100-cc0-sfx-2) (CC0)
 
 Другие модули автора: [BurnSIx-hub/foundry-modules](https://github.com/BurnSIx-hub/foundry-modules)
 

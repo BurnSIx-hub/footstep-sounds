@@ -2,12 +2,12 @@ const MODULE_ID = "footstep-sounds";
 const BEHAVIOR_TYPE = `${MODULE_ID}.surfaceType`;
 
 const SOUND_FILES = {
-  metal:       ["metal1.mp3",  "metal2.mp3",  "metal3.mp3"],
-  stone:       ["stone1.ogg",  "stone2.ogg",  "stone3.ogg"],
-  gravel:      ["gravel1.ogg", "gravel2.ogg", "gravel3.ogg"],
-  dirt:        ["dirt1.ogg",   "dirt2.ogg",   "dirt3.ogg"],
-  wood:        ["wood1.ogg",   "wood2.ogg",   "wood3.ogg"],
-  creaky_wood: ["creaky1.ogg", "creaky2.ogg", "creaky3.ogg"],
+  metal:       ["metal1.mp3",  "metal2.ogg",  "metal3.ogg",  "metal4.ogg"],
+  stone:       ["stone1.ogg",  "stone2.ogg",  "stone3.ogg",  "stone4.ogg",  "stone5.ogg"],
+  gravel:      ["gravel1.ogg", "gravel2.ogg", "gravel3.ogg", "gravel4.ogg", "gravel5.ogg"],
+  dirt:        ["dirt1.ogg",   "dirt2.ogg",   "dirt3.ogg",   "dirt4.ogg"],
+  wood:        ["wood1.ogg",   "wood2.ogg",   "wood3.ogg",   "wood4.ogg",   "wood5.ogg"],
+  creaky_wood: ["creaky1.ogg", "creaky2.ogg", "creaky3.ogg", "creaky4.ogg"],
 };
 
 const _soundIndex = Object.fromEntries(Object.keys(SOUND_FILES).map(k => [k, 0]));
