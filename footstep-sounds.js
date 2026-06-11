@@ -5,6 +5,7 @@ const SOUND_FILES = {
   metal:       ["metal1.mp3",  "metal2.mp3",  "metal3.mp3"],
   stone:       ["stone1.ogg",  "stone2.ogg",  "stone3.ogg"],
   gravel:      ["gravel1.ogg", "gravel2.ogg", "gravel3.ogg"],
+  dirt:        ["dirt1.ogg",   "dirt2.ogg",   "dirt3.ogg"],
   wood:        ["wood1.ogg",   "wood2.ogg",   "wood3.ogg"],
   creaky_wood: ["creaky1.ogg", "creaky2.ogg", "creaky3.ogg"],
 };
@@ -36,6 +37,7 @@ class FootstepSurfaceBehaviorData extends foundry.data.regionBehaviors.RegionBeh
           metal:       "Metal",
           stone:       "Stone",
           gravel:      "Gravel",
+          dirt:        "Dirt",
           wood:        "Wood",
           creaky_wood: "Creaky Wood",
         },

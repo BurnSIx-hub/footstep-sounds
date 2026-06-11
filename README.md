@@ -1,6 +1,6 @@
 # 👣 Footstep Sounds
 
-**EN:** Footstep sounds for Foundry VTT (v12–v14) driven by scene Regions. Draw a Region, add the «Footstep Sounds: Surface Type» behavior, pick a surface — and any token moving through it produces matching footsteps. Walking (keyboard, cell by cell) and running (mouse drag over several cells) play at different tempo.
+**EN:** Footstep sounds for Foundry VTT (v12–v14) driven by scene Regions. Draw a Region, add the «Footstep Sounds: Surface Type» behavior, pick a surface (metal, stone, gravel, dirt, wood, creaky wood) — and any token moving through it produces matching footsteps. Walking (keyboard, cell by cell) and running (mouse drag over several cells) play at different tempo.
 
 **Install:** Foundry VTT → Add-on Modules → Install Module →
 ```
@@ -17,8 +17,9 @@ https://github.com/BurnSIx-hub/footstep-sounds/releases/latest/download/module.j
 
 - 🔩 Металл
 - 🪨 Камень
-- 🪵 Дерево
 - 🦶 Гравий
+- 🌱 Земля
+- 🪵 Дерево
 - 🚪 Скрипучее дерево
 
 ### Как пользоваться
@@ -40,11 +41,10 @@ https://github.com/BurnSIx-hub/footstep-sounds/releases/latest/download/module.j
 
 ## Звуки / Sound credits
 
-Все звуки — **CC0 (public domain)**:
-- [Different steps on wood, stone, leaves, gravel and mud](https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud) (OpenGameArt)
-- [Fantozzi's Footsteps](https://opengameart.org/content/fantozzis-footsteps-grasssand-stone) (OpenGameArt)
-- [100 CC0 metal and wood SFX](https://opengameart.org/content/100-cc0-metal-and-wood-sfx) (OpenGameArt)
-- [100 CC0 SFX #2](https://opengameart.org/content/100-cc0-sfx-2) (OpenGameArt)
+- Камень, гравий: [Footsteps on different surfaces](https://opengameart.org/content/footsteps-on-different-surfaces) by **congusbongus** (CC-BY 3.0; камень — на основе записи swuing, гравий — Ali_6868, CC0)
+- Земля, дерево: [Different steps on wood, stone, leaves, gravel and mud](https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud) (CC0)
+- Скрипучее дерево: [100 CC0 metal and wood SFX](https://opengameart.org/content/100-cc0-metal-and-wood-sfx) (CC0)
+- Варианты земли: [100 CC0 SFX #2](https://opengameart.org/content/100-cc0-sfx-2) (CC0)
 
 Другие модули автора: [BurnSIx-hub/foundry-modules](https://github.com/BurnSIx-hub/foundry-modules)
 
