@@ -2,7 +2,7 @@
   "id": "footstep-sounds",
   "title": "Footstep Sounds",
   "description": "Plays footstep sounds when tokens move through regions with a configured surface type.",
-  "version": "1.3.2",
+  "version": "1.4.0",
   "compatibility": {
     "minimum": "12",
     "verified": "14"
@@ -11,8 +11,12 @@
   "url": "https://github.com/BurnSIx-hub/footstep-sounds",
   "bugs": "https://github.com/BurnSIx-hub/footstep-sounds/issues",
   "manifest": "https://github.com/BurnSIx-hub/footstep-sounds/releases/latest/download/module.json",
-  "download": "https://github.com/BurnSIx-hub/footstep-sounds/releases/download/v1.3.2/module.zip",
+  "download": "https://github.com/BurnSIx-hub/footstep-sounds/releases/download/v1.4.0/module.zip",
   "esmodules": ["footstep-sounds.js"],
+  "languages": [
+    { "lang": "ru", "name": "Russian", "path": "lang/ru.json" },
+    { "lang": "en", "name": "English", "path": "lang/en.json" }
+  ],
   "documentTypes": {
     "RegionBehavior": {
       "surfaceType": {}

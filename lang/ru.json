@@ -1,0 +1,11 @@
+{
+  "FOOTSTEPS.BehaviorLabel": "Звуки шагов: тип поверхности",
+  "FOOTSTEPS.SurfaceType.Label": "Тип поверхности",
+  "FOOTSTEPS.SurfaceType.Hint": "Звуки шагов, когда токен движется по этому региону.",
+  "FOOTSTEPS.Surface.Metal": "Металл",
+  "FOOTSTEPS.Surface.Stone": "Камень",
+  "FOOTSTEPS.Surface.Gravel": "Гравий",
+  "FOOTSTEPS.Surface.Dirt": "Земля",
+  "FOOTSTEPS.Surface.Wood": "Дерево",
+  "FOOTSTEPS.Surface.CreakyWood": "Скрипучее дерево"
+}

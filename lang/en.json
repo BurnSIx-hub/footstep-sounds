@@ -1,0 +1,11 @@
+{
+  "FOOTSTEPS.BehaviorLabel": "Footstep Sounds: Surface Type",
+  "FOOTSTEPS.SurfaceType.Label": "Surface type",
+  "FOOTSTEPS.SurfaceType.Hint": "Footstep sounds played when a token moves through this region.",
+  "FOOTSTEPS.Surface.Metal": "Metal",
+  "FOOTSTEPS.Surface.Stone": "Stone",
+  "FOOTSTEPS.Surface.Gravel": "Gravel",
+  "FOOTSTEPS.Surface.Dirt": "Dirt",
+  "FOOTSTEPS.Surface.Wood": "Wood",
+  "FOOTSTEPS.Surface.CreakyWood": "Creaky Wood"
+}

@@ -33,13 +33,15 @@ class FootstepSurfaceBehaviorData extends foundry.data.regionBehaviors.RegionBeh
         required: true,
         blank: false,
         initial: "stone",
+        label: "FOOTSTEPS.SurfaceType.Label",
+        hint:  "FOOTSTEPS.SurfaceType.Hint",
         choices: {
-          metal:       "Metal",
-          stone:       "Stone",
-          gravel:      "Gravel",
-          dirt:        "Dirt",
-          wood:        "Wood",
-          creaky_wood: "Creaky Wood",
+          metal:       "FOOTSTEPS.Surface.Metal",
+          stone:       "FOOTSTEPS.Surface.Stone",
+          gravel:      "FOOTSTEPS.Surface.Gravel",
+          dirt:        "FOOTSTEPS.Surface.Dirt",
+          wood:        "FOOTSTEPS.Surface.Wood",
+          creaky_wood: "FOOTSTEPS.Surface.CreakyWood",
         },
       }),
     };
@@ -48,7 +50,7 @@ class FootstepSurfaceBehaviorData extends foundry.data.regionBehaviors.RegionBeh
 
 Hooks.on("init", () => {
   CONFIG.RegionBehavior.dataModels[BEHAVIOR_TYPE] = FootstepSurfaceBehaviorData;
-  CONFIG.RegionBehavior.typeLabels[BEHAVIOR_TYPE] = "Footstep Sounds: Surface Type";
+  CONFIG.RegionBehavior.typeLabels[BEHAVIOR_TYPE] = "FOOTSTEPS.BehaviorLabel";
   CONFIG.RegionBehavior.typeIcons[BEHAVIOR_TYPE]  = "fa-solid fa-shoe-prints";
 });
 
